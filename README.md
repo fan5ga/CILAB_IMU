@@ -22,7 +22,7 @@ A simple GUI to visualize IMU data.
 - pygame
 - tkinter
 
-*** Useage***
+**Useage**
 - $ python imu.py
 
 ### IMU GUI Windows 
