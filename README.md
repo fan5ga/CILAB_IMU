@@ -28,4 +28,4 @@ A simple GUI to visualize IMU data.
 ### IMU GUI Windows 
 Windows GUI
 
- More information please refer to Pdf Mannual.
+** *More information please refer to Pdf Mannual.**
